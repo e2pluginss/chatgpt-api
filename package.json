@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "delay": "^5.0.0",
-    "eventsource-parser": "^0.0.5",
+    "eventsource-parser": "^0.1.0",
     "expiry-map": "^2.0.0",
     "html-to-md": "^0.8.3",
     "p-timeout": "^6.0.0",
