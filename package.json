@@ -40,7 +40,7 @@
     "eventsource-parser": "^0.0.5",
     "expiry-map": "^2.0.0",
     "html-to-md": "^0.8.3",
-    "p-timeout": "^6.0.0",
+    "p-timeout": "^6.1.4",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-recaptcha": "npm:@fisch0920/puppeteer-extra-plugin-recaptcha@^3.6.6",
     "puppeteer-extra-plugin-stealth": "^2.11.1",
