@@ -43,7 +43,7 @@
     "p-timeout": "^6.0.0",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-recaptcha": "npm:@fisch0920/puppeteer-extra-plugin-recaptcha@^3.6.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "random": "^4.1.0",
     "remark": "^14.0.2",
     "strip-markdown": "^5.0.0",
